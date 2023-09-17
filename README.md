@@ -66,6 +66,7 @@ graph TD
 
 ![goColab Platform Components](https://storage.googleapis.com/amotivv-public/goColab_v1.png)
 
+
 ## Platform Components
 1. [Target Segments](#target-segments)
 2. [Real-World Use Cases](#real-world-use-cases)
@@ -87,10 +88,19 @@ graph TD
 - **Solution**: GOcolab partners with a local community mental health provider, providing a seamless back-office solution for direct financial aid.
 - **Impact**: Enables immediate, transparent funding for mental health services at the time of need, with the non-profit handling vetting and program execution.
 
+
+![goColab Platform Impact](https://storage.googleapis.com/amotivv-public/goColab_impact_v1.jpeg)
+
+
 #### Utility Assistance through United Way's 211 Program
 - **Problem**: Families often struggle to pay for basic utilities like electricity, water, and Internet.
 - **Solution**: GOcolab can serve as the back-office provider for United Way's 211 program, specifically facilitating direct financial aid for families who cannot afford reliable Internet service.
 - **Impact**: Provides a transparent, efficient mechanism for immediate assistance, helping families maintain access to essential services.
+
+
+![United Way 211 Program](https://storage.googleapis.com/amotivv-public/united-way-211.png)
+
+
 
 #### Future Use Cases
 - **Emergency Response Fund Allocation**: Rapidly channel funds to where they are needed most during crises.
