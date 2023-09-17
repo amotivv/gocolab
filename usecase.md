@@ -16,4 +16,5 @@ sequenceDiagram
     NonProfit->>CounselingService: Pays for Counseling Services
     CounselingService->>GOcolab: Reports Service Delivery
     GOcolab->>Donor: Provides Real-Time Monitoring and Impact Analysis
+    GOcolab->>Community: Provides Real-Time Monitoring and Impact Analysis
 ```
