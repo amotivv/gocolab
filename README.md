@@ -64,6 +64,8 @@ graph TD
 
 ---
 
+![goColab Platform Components](https://storage.googleapis.com/amotivv-public/goColab_v1.png)
+
 ## Platform Components
 1. [Target Segments](#target-segments)
 2. [Real-World Use Cases](#real-world-use-cases)
