@@ -11,9 +11,9 @@ sequenceDiagram
     GOcolab->>NonProfit: Partners with Local Mental Health Non-Profit
     
     Donor->>GOcolab: Donates Funds
-    GOcolab->>NonProfit: Transfers 100% of Donated Funds
+    GOcolab-->>NonProfit: Transfers 100% of Donated Funds
     
-    NonProfit->>GOcolab: Reports Service Delivery
-    GOcolab->>Donor: Provides Real-Time Monitoring and Impact Analysis
-    GOcolab->>Community: Provides Real-Time Monitoring and Impact Analysis
+    NonProfit-->>GOcolab: Reports Service Delivery
+    GOcolab-->>Donor: Provides Real-Time Monitoring and Impact Analysis
+    GOcolab-->>Community: Provides Real-Time Monitoring and Impact Analysis
 ```
